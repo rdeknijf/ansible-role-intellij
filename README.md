@@ -6,11 +6,11 @@ It will remove any old versions that *this role* has installed.
 
 I'm planning to add the Community Edition as well. Should be quite easy.
 
-Based on: https://github.com/jdauphant/ansible-role-intellij
+Based on: [jdauphant/ansible-role-intellij](https://github.com/jdauphant/ansible-role-intellij).
 
 Requirements
 ------------
-This role does not handle Java installation. IDEA requires that of course. I use williamyeh.oracle-java.
+This role does not handle Java installation. IDEA requires that of course. I use [williamyeh.oracle-java](https://github.com/William-Yeh/ansible-oracle-java).
 
 Role Variables
 --------------
@@ -47,4 +47,4 @@ MIT / BSD
 Author Information
 ------------------
 Rutger de Knijf
-rutger@deknijf.com
+<rutger@deknijf.com>
