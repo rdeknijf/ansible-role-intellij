@@ -1,3 +1,5 @@
+---
+dependencies: []
 galaxy_info:
   author: Rutger de Knijf
   description: Installs a specifiable version of IntelliJ IDEA Ultimate
@@ -15,6 +17,3 @@ galaxy_info:
     - Intellij
     - Jetbrains
     - IDEA
-  categories:
-    - development
-  dependencies: []
