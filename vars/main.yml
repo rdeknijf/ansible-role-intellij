@@ -1,0 +1,4 @@
+---
+intellij_url: "http://download.jetbrains.com/idea/ideaIU-{{intellij_version}}.tar.gz"
+intellij_folder_name: "{{result_intellij_folder_name.stdout_lines.0}}"
+intellij_tmp: "{{ intellij_download_dir }}/ideaIU-{{ intellij_version }}.tar.gz"

@@ -1,0 +1,20 @@
+galaxy_info:
+  author: Rutger de Knijf
+  description: Installs a specifiable version of IntelliJ IDEA Ultimate
+  company: De Knijf ICT
+  license: BSD
+  min_ansible_version: 1.2
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+        - utopic
+        - vivid
+        - wily
+  galaxy_tags:
+    - Intellij
+    - Jetbrains
+    - IDEA
+  categories:
+    - development
+  dependencies: []
