@@ -15,7 +15,7 @@ This role does not handle Java installation. IDEA requires that of course. I use
 Role Variables
 --------------
 
-    intellij_version: 2016.1
+    intellij_version: 2016.2.2
  
  Which version to install.
 
