@@ -1,4 +1,4 @@
 ---
 intellij_download_dir: '{{ ansible_env.HOME }}/Downloads'
 intellij_install_dir: /opt/intellij
-intellij_version: 2016.3.5
+intellij_version: 2017.1.1
